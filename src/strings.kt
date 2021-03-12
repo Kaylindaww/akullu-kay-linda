@@ -11,6 +11,7 @@ fun name(){
     println(name[3])
 }
 fun kay(name:String,age:Int){
+    
     var x="linda"
     var y=20
     print("Hii my name is $name and i am $age years")
